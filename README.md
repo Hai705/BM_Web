@@ -1,5 +1,6 @@
-Trong mini project này, em sử dụng Burp Suite/ZAP để pentest một website bán quần áo/thời trang (có chức năng tìm kiếm, đăng nhập và bình luận). Mục tiêu là minh hoạ cách phát hiện và khai thác một số lỗ hổng web phổ biến trên một ứng dụng gần với mô hình thương mại điện tử thực tế.\n
-Cụ thể, phần demo tập trung vào ba lỗi chính:\n
+Trong mini project này, em sử dụng Burp Suite/ZAP để pentest một website bán quần áo/thời trang (có chức năng tìm kiếm, đăng nhập và bình luận). Mục tiêu là minh hoạ cách phát hiện và khai thác một số lỗ hổng web phổ biến trên một ứng dụng gần với mô hình thương mại điện tử thực tế.
+
+Cụ thể, phần demo tập trung vào ba lỗi chính:
 •	Reflected XSS (≈ 7 phút): tìm tham số trên form/từ URL, intercept request, chèn payload JavaScript và chứng minh thực thi bằng hộp thoại alert.\n
 •	Stored XSS (≈ 5 phút): gửi bình luận/bài đánh giá chứa script, được lưu trong hệ thống và tự động chạy khi user khác truy cập trang sản phẩm.\n
 •	SQL Injection (≈ 8 phút):
