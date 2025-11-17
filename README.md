@@ -93,6 +93,8 @@ Tài khoản demo để đăng nhập: Username, Password cho từng vai trò (A
 •	Username: user3000@gmail.com
 •	Password: user3000
 
+Link Youtube: https://youtu.be/Bd9FWfeiVe8
+
 <img width="1898" height="930" alt="image" src="https://github.com/user-attachments/assets/4f8a2e53-ea54-48ec-8805-45ba9107e126" />
 <img width="1892" height="922" alt="image" src="https://github.com/user-attachments/assets/4f74fc5a-960c-4139-9131-a582715fc582" />
 <img width="1887" height="926" alt="image" src="https://github.com/user-attachments/assets/a5a933dc-2651-4034-a4a6-71716274ad3b" />
